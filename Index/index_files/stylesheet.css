@@ -1,0 +1,17 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index:1;
+	height: 70px;
+	width: 100%;
+	background-color: #5F9EA0;
+	margin-top: -20px;
+}
+
+#logo {
+	font-family: Verdana;
+	font-size: 30px;
+	color: #ffffff;
+}
